@@ -1,0 +1,104 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Glitch', system-ui;
+    font-family: 'Teko', sans-serif;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.image {
+    height: 100vh;
+    background-size: cover;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.sectionOne {
+    background-image: url(Images/sectionOne.png);
+}
+
+.sectionTwo {
+    background-image: url(Images/sectionTwo.jpg);
+}
+
+.sectionThree {
+    background-image: url(Images/sectionThree.webp);
+}
+
+.sectionFour {
+    background-image: url(Images/sectionFour.jpeg);
+}
+
+.sectionFive {
+    background-image: url(Images/sectionFive.png);
+}
+
+.sectionSix {
+    background-image: url(Images/sectionSix.png);
+}
+
+.sectionSeven {
+    background-image: url(Images/sectionSeven.webp);
+}
+
+.sectionEight {
+    background-image: url(Images/sectionEight.jpg);
+}
+
+.sectionNine {
+    background-image: url(Images/sectionNine.jpg);
+}
+
+.sectionTen {
+    background-image: url(Images/sectionTen.jpg);
+}
+
+.sectionEleven {
+    background-image: url(Images/sectionEleven.jpg);
+}
+
+.sectionTwelve {
+    background-image: url(Images/sectionTwelve.png);
+}
+
+.sectionThirteen {
+    background-image: url(Images/sectionThirteen.jpg);
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+.textBg {
+    background-color: #313534;
+    color: white;
+    padding: 30px;
+}
+
+.section{
+    padding: 50px 80px;
+    text-align: center;
+}
+
+.light{
+    background-color: #f4f4f4;
+    color: #666;
+}
